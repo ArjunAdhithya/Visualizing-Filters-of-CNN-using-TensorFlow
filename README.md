@@ -1,6 +1,6 @@
 # **Visualizing Filters of a CNN using TensorFlow**
 
-![Filters Example](imgs/block3_conv1)
+![Filter](imgs/block1_conv1.png)
 
 ## **Overview**
 This project demonstrates the visualization of filters from various layers of a Convolutional Neural Network (CNN) using the popular VGG16 model. By applying gradient ascent techniques, we generate images that maximally activate specific filters, helping us understand the patterns learned by different layers of the CNN.
